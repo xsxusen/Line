@@ -5,4 +5,4 @@
  * @author xusen
  *
  */
-package com.example.line.constants;
+package com.example.line.line.constants;
